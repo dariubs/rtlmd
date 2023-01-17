@@ -1,6 +1,6 @@
 (function(){
 
-	var initUrl = 'http://dariubs.github.io/rtlmd/initcontent.md';
+	var initUrl = 'https://rtlmd.codecast.ir/initcontent.md';
 
 	$(document).ready(function(){
 		if(localStorage!='' && localStorage['content']!=null){
