@@ -1,6 +1,6 @@
 (function(){
 
-	var initUrl = 'https://rtlmd.codecast.ir/initcontent.md';
+	var initUrl = 'https://rtlmd.productivity.directory/initcontent.md';
 
 	$(document).ready(function(){
 		if(localStorage!='' && localStorage['content']!=null){
